@@ -12,8 +12,17 @@
 ### https://www.trufflesuite.com/docs/truffle/getting-started/installation
 
 
+## ganache should be running before hand
 
 ## to setup project run "npm install" after cloning
+
+## After changes in contracts you need to migrate contracts as a new copy by runnig "truffle migrate --reset"
+
+## to compile transaction run "truffle compile"
+
+## to run tests of contracts run "truffle test"
+
+## to run project on lite-server, run "npm run dev"
 
 ### Project Tour
 
